@@ -1,2 +1,2 @@
 # targil2
-printf("hiii");
+printf("hi");
